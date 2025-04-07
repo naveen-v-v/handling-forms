@@ -1,4 +1,4 @@
-# Forms
+# Angular Forms
 
 - Handling Forms has 2 ways: Template Driven and Reactive
 
